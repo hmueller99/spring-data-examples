@@ -28,7 +28,7 @@
 	</modules>
 
 	<properties>
-		<hibernate.version>5.0.0.Beta1</hibernate.version>
+		<hibernate.version>5.0.0-SNAPSHOT</hibernate.version>
 	</properties>
 
 	<dependencies>
