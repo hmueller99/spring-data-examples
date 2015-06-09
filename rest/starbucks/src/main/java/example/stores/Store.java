@@ -39,11 +39,4 @@ public class Store {
 		this.address = address;
 		this.id = null;
 	}
-
-	protected Store() {
-
-		this.id = null;
-		this.name = null;
-		this.address = null;
-	}
 }
